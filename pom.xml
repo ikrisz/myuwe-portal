@@ -5,7 +5,7 @@
 	<artifactId>myuwe-portal</artifactId>
 	<packaging>pom</packaging>
 	<name>myuwe-portal</name>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 
 	<parent>
 		<groupId>uk.ac.uwe.atg.myuwe</groupId>
@@ -13,4 +13,8 @@
 		<version>0.0.1</version>
 	</parent>
 
+
+  <scm>
+    <developerConnection>scm:svn:https://barnes.uwe.ac.uk/svn/myuwe/myuwe-top/tags/myuwe-portal-0.0.1</developerConnection>
+  </scm>
 </project>
