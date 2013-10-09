@@ -12,9 +12,10 @@
 		<artifactId>myuwe-top</artifactId>
 		<version>0.0.1</version>
 	</parent>
-
-
+	
+	<!--  scm:svn:https://barnes.uwe.ac.uk/svn/myuwe/myuwe-portal/trunk  -->
   <scm>
-    <developerConnection>scm:svn:https://barnes.uwe.ac.uk/svn/myuwe/myuwe-top/tags/myuwe-portal-0.0.1</developerConnection>
+    <developerConnection>scm:svn:https://barnes.uwe.ac.uk/svn/myuwe/myuwe-portal/trunk</developerConnection>
   </scm>
+  
 </project>
