@@ -5,7 +5,7 @@
 	<artifactId>myuwe-portal</artifactId>
 	<packaging>pom</packaging>
 	<name>myuwe-portal</name>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
 
 	<parent>
 		<groupId>uk.ac.uwe.atg.myuwe</groupId>
