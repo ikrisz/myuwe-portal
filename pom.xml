@@ -9,16 +9,17 @@
 	<parent>
 		<groupId>uk.ac.uwe.atg.myuwe</groupId>
 		<artifactId>myuwe-top</artifactId>
-		<version>0.0.2</version>
+		<version>0.0.6</version>
 	</parent>
 	
-  <!--  scm:svn:https://barnes.uwe.ac.uk/svn/myuwe/myuwe-portal/trunk  -->
-  <scm>
-    <developerConnection>scm:svn:https://barnes.uwe.ac.uk/svn/myuwe/myuwe-portal/trunk</developerConnection>
-  </scm>
-
 	<properties>
 		<myuwe-shared-version>0.0.4</myuwe-shared-version>
+		<myuwe-state-version>0.0.6</myuwe-state-version>
+        <ccpp.version>1.0</ccpp.version>
+        <person-directory.version>1.5.0-RC6</person-directory.version>
+        <pluto.version>2.1.0-M2</pluto.version>
+        <portlet-api.version>2.0</portlet-api.version>
+        <resource-server.version>1.0.25</resource-server.version>
 	</properties>
   
 </project>
