@@ -14,7 +14,7 @@
 	
 	<!-- scm:svn:https://barnes.uwe.ac.uk/svn/myuwe/myuwe-top/trunk -->
 	<scm>
-    	<developerConnection>scm:svn:https://barnes.uwe.ac.uk/svn/myuwe/myuwe-top/trunk</developerConnection>
+    	<developerConnection>scm:svn:https://barnes.uwe.ac.uk/svn/myuwe/myuwe-portal/trunk</developerConnection>
   	</scm>
 	
 	<properties>
