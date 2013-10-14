@@ -21,7 +21,7 @@
 		<myuwe-shared-version>0.0.4</myuwe-shared-version>
 		<myuwe-state-version>0.0.6</myuwe-state-version>
         <ccpp.version>1.0</ccpp.version>
-        <person-directory.version>1.5.0-RC6</person-directory.version>
+        <person-directory.version>1.5.0</person-directory.version>
         <pluto.version>2.1.0-M2</pluto.version>
         <portlet-api.version>2.0</portlet-api.version>
         <resource-server.version>1.0.25</resource-server.version>
