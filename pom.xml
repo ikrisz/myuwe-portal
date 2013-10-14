@@ -4,13 +4,18 @@
 	<artifactId>myuwe-portal</artifactId>
 	<packaging>pom</packaging>
 	<name>myuwe-portal</name>
-	<version>0.0.2</version>
+	<version>0.0.2-SNAPSHOT</version>
 
 	<parent>
 		<groupId>uk.ac.uwe.atg.myuwe</groupId>
 		<artifactId>myuwe-top</artifactId>
 		<version>0.0.6</version>
 	</parent>
+	
+	<!-- scm:svn:https://barnes.uwe.ac.uk/svn/myuwe/myuwe-top/trunk -->
+	<scm>
+    	<developerConnection>scm:svn:https://barnes.uwe.ac.uk/svn/myuwe/myuwe-top/trunk</developerConnection>
+  	</scm>
 	
 	<properties>
 		<myuwe-shared-version>0.0.4</myuwe-shared-version>
@@ -22,8 +27,4 @@
         <resource-server.version>1.0.25</resource-server.version>
 	</properties>
   
-
-  <scm>
-    <developerConnection>scm:svn:https://barnes.uwe.ac.uk/svn/myuwe/myuwe-top/tags/myuwe-portal-0.0.2</developerConnection>
-  </scm>
 </project>
