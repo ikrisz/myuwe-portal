@@ -19,7 +19,7 @@
 	
 	<properties>
 		<myuwe-shared-version>0.0.4</myuwe-shared-version>
-		<myuwe-state-version>0.0.6</myuwe-state-version>
+		<myuwe-state-version>0.0.1</myuwe-state-version>
         <ccpp.version>1.0</ccpp.version>
         <person-directory.version>1.5.0</person-directory.version>
         <pluto.version>2.1.0-M2</pluto.version>
