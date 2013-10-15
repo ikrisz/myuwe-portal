@@ -1,6 +1,9 @@
 <!-- 
 Defines the version for all jars in class path of myuwe webapps. i.e. tomcat/lib and tomcat/shared/lib 
-Perhaps these should be provided dependencies? Or just dependency management....?
+
+TODO:
+1. Perhaps tomcat/lib, tomcat/shared/lib versions should be included here as provided dependencies. Or just dependency management....?
+2. JDBC driver version (/dependency) should also be managed here.
 -->
 
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
