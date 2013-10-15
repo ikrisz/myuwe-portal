@@ -43,6 +43,7 @@ TODO:
         
         <!-- other web apps -->
         <resource-server.version>1.0.25</resource-server.version>
+        
 	</properties>
   
 </project>
