@@ -30,11 +30,13 @@ Perhaps these should be provided dependencies? Or just dependency management....
 		<wshandlers.version>0.0.3</wshandlers.version>
 		
 		<!-- tomcat/shared/lib -->
-		<myuwe-shared-version>0.0.6</myuwe-shared-version>
 		<pluto.version>2.1.0-M2</pluto.version>		
         <ccpp.version>1.0</ccpp.version>
         <person-directory.version>1.5.0</person-directory.version>        
         <portlet-api.version>2.0</portlet-api.version>
+        
+        <!-- shared code included in portal/portlet wars -->
+		<myuwe-shared-version>0.0.6</myuwe-shared-version>
         
         <!-- other web apps -->
         <resource-server.version>1.0.25</resource-server.version>
