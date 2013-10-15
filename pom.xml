@@ -12,7 +12,7 @@ TODO:
 	<artifactId>myuwe-portal</artifactId>
 	<packaging>pom</packaging>
 	<name>myuwe-portal</name>
-	<version>0.0.8</version>
+	<version>0.0.9-SNAPSHOT</version>
 
 	<parent>
 		<groupId>uk.ac.uwe.atg.myuwe</groupId>
@@ -22,7 +22,7 @@ TODO:
 	
 	<!-- scm:svn:https://barnes.uwe.ac.uk/svn/myuwe/myuwe-top/trunk -->
 	<scm>
-    	<developerConnection>scm:svn:https://barnes.uwe.ac.uk/svn/myuwe/myuwe-portal/tags/myuwe-portal-0.0.8</developerConnection>
+    	<developerConnection>scm:svn:https://barnes.uwe.ac.uk/svn/myuwe/myuwe-portal/trunk</developerConnection>
   	</scm>
 	
 	<properties>
