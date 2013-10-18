@@ -17,7 +17,7 @@ TODO:
 	<parent>
 		<groupId>uk.ac.uwe.atg.myuwe</groupId>
 		<artifactId>myuwe-top</artifactId>
-		<version>0.0.6</version>
+		<version>1.0.0</version>
 	</parent>
 	
 	<!-- scm:svn:https://barnes.uwe.ac.uk/svn/myuwe/myuwe-top/trunk -->
