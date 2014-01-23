@@ -42,7 +42,8 @@ TODO:
 		<myuwe-shared-version>1.0.0</myuwe-shared-version>
         
         <!-- other web apps -->
-        <resource-server.version>1.0.25</resource-server.version>
+        <!-- <resource-server.version>1.0.25</resource-server.version> -->
+        <myuwe.resource-server.version>1.0.4</myuwe.resource-server.version>
         
 	</properties>
   
