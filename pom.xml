@@ -26,11 +26,6 @@ TODO:
   	</scm>
 	
 	<properties>
-	
-		<!-- tomcat/lib -->
-		<myuwe-state-version>1.1.0</myuwe-state-version>
-		<toplink.version>2.0.1</toplink.version>
-		<wshandlers.version>0.0.3</wshandlers.version>
 		
 		<!-- tomcat/shared/lib -->
 		<pluto.version>2.1.0-M2-UWE01</pluto.version>		
