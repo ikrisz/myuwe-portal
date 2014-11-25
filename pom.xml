@@ -28,7 +28,7 @@ TODO:
 	<properties>
 		
 		<!-- tomcat/shared/lib -->
-		<pluto.version>2.1.0-M2-UWE01</pluto.version>		
+		<pluto.version>2.1.0-M2-UWE02</pluto.version>		
         <ccpp.version>1.0</ccpp.version>
         <person-directory.version>1.5.0</person-directory.version>        
         <portlet-api.version>2.0</portlet-api.version>
