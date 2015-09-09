@@ -12,7 +12,7 @@ TODO:
 	<artifactId>myuwe-portal</artifactId>
 	<packaging>pom</packaging>
 	<name>myuwe-portal</name>
-	<version>1.1.6-SNAPSHOT</version>
+	<version>3.0.1-SNAPSHOT</version>
 
 	<parent>
 		<groupId>uk.ac.uwe.atg.myuwe</groupId>
@@ -28,17 +28,16 @@ TODO:
 	<properties>
 		
 		<!-- tomcat/shared/lib -->
-		<pluto.version>2.1.0-M2-UWE02</pluto.version>		
         <ccpp.version>1.0</ccpp.version>
-        <person-directory.version>1.5.0</person-directory.version>        
+        <person-directory.version>1.5.2-M1</person-directory.version>
+        <pluto.version>2.1.0-M3</pluto.version>
         <portlet-api.version>2.0</portlet-api.version>
         
         <!-- shared code included in portal/portlet wars -->
-		<myuwe-shared-version>1.0.0</myuwe-shared-version>
+		<myuwe-shared-version>3.0.0</myuwe-shared-version>
         
         <!-- other web apps -->
-        <resource-server.version>1.0.25</resource-server.version>
-        <myuwe.resource-server.version>1.0.4</myuwe.resource-server.version>
+        <resource-server.version>1.0.41</resource-server.version>
         
 	</properties>
   
